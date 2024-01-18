@@ -1,0 +1,19 @@
+#html{
+  text-align:center;
+  text-transform:right;
+  line-height:25px;
+}
+
+/* 
+<!--Challenge 2: Set text-alignment of id 'css' to be justify and color red-- */
+#css{
+  text-align:justify;
+  color: red;
+}
+
+/* text color to green,text-transform to capitalise of id 'js' */
+#js{
+  color: green;
+  text-transform:capitalize;
+
+}
